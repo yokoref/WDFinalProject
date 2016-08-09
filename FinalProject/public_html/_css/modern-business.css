@@ -72,6 +72,10 @@ footer {
     margin: 50px 0;
 }
 
+.car_title {
+    color: #800;
+}
+
 /* Responsive Styles */
 
 @media(max-width:991px) {
